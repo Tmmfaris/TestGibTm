@@ -1,2 +1,2 @@
-# faristm
+# Assignments
 for studying and testing
